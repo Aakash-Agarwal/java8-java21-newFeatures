@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 
 public class TestFeatureE {
     public void test() {
-        System.out.println("Feature C - Method as argument\n");
+        System.out.println("Feature E - Method as argument\n");
         System.out.println("This feature helps us to pass the entire method as an argument in the lambda expression\n" +
                 "This helps us in dividing complex lambdas in small manageable functions and then use those functions in the lambdas.\n" );
 
