@@ -1,6 +1,6 @@
-package com.learning.research.features;
+package com.learning.research.features.b_inteface_default_methods;
 
-public class InterfaceDefaultMethodsImplMultiply implements InterfaceDefaultMethods {
+public class TestInterfaceImplMultiply implements TestInterface {
 
     @Override
     public int process(int a, int b) {
