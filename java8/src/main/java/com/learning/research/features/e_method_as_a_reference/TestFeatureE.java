@@ -1,11 +1,11 @@
-package com.learning.research.features.c_method_as_a_reference;
+package com.learning.research.features.e_method_as_a_reference;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class TestFeatureC {
+public class TestFeatureE {
     public void test() {
         System.out.println("Feature C - Method as argument\n");
         System.out.println("This feature helps us to pass the entire method as an argument in the lambda expression\n" +

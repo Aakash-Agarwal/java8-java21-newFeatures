@@ -1,4 +1,4 @@
-package com.learning.research.features.c_method_as_a_reference;
+package com.learning.research.features.e_method_as_a_reference;
 
 public class TestClass {
 

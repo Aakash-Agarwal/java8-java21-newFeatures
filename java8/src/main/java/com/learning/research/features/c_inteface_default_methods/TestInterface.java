@@ -1,4 +1,4 @@
-package com.learning.research.features.b_inteface_default_methods;
+package com.learning.research.features.c_inteface_default_methods;
 
 public interface TestInterface {
     default int process(int a, int b) {

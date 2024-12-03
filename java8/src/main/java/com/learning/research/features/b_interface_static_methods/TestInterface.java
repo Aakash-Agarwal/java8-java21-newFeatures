@@ -1,4 +1,4 @@
-package com.learning.research.features.a_interface_static_methods;
+package com.learning.research.features.b_interface_static_methods;
 
 public interface TestInterface {
 

@@ -1,8 +1,6 @@
-package com.learning.research.features.b_inteface_default_methods;
+package com.learning.research.features.c_inteface_default_methods;
 
-import com.learning.research.features.a_interface_static_methods.TestInterface;
-
-public class TestFeatureB {
+public class TestFeatureC {
 
     public void test() {
         System.out.println("Feature B - Default methods in interfaces\n");

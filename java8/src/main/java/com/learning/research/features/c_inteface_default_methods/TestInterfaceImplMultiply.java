@@ -1,4 +1,4 @@
-package com.learning.research.features.b_inteface_default_methods;
+package com.learning.research.features.c_inteface_default_methods;
 
 public class TestInterfaceImplMultiply implements TestInterface {
 
